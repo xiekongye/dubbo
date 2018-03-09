@@ -20,7 +20,7 @@
         </dependency>
         <dependency>
             <groupId>com.kyxie.study</groupId>
-            <artifactId>dubbo_provider</artifactId>
+            <artifactId>dubbo_provider_api</artifactId>
         </dependency>
         <!--Spring-->
         <dependency>
